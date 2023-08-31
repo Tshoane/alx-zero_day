@@ -1,6 +1,5 @@
 My first readme
-this file was updated on github for ALX-zero_da
-
+this file was updated on github for ALX-zero_day
 
 
 
